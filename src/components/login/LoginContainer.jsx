@@ -10,7 +10,7 @@ class LoginContainer extends React.Component {
       <div className="login-layout">
         <div className="main-container">
           <div className="main-content">
-            <div className="row">
+            <div className="row" style={{height: 974}}>
               <div className="col-sm-10 col-sm-offset-1">
                 <div className="login-container">
                   <LoginHeader />
